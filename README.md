@@ -19,26 +19,26 @@ Shop Management System implemented using Java and MySQL
 
 **Screenshots:**
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/login_page.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/login_page.jpg?raw=true" width="50%"/>
 
 _Login Page_
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/dashboard.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/dashboard.jpg?raw=true" width="50%"/>
 
 _Manager Dashboard_
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/edit_profile.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/edit_profile.jpg?raw=true" width="50%"/>
 
 _Profile Edit_
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/history.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/history.jpg?raw=true" width="50%"/>
 
 _Purchase History_
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/customers.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/customers.jpg?raw=true" width="50%"/>
 
 _Customer Management_
 
-<img src="https://github.com/MihajaSun/ShopManagement/main/screenshots/products.jpg?raw=true" width="50%"/>
+<img src="https://github.com/MihajaSun/ShopManagement/tree/main/screenshots/products.jpg?raw=true" width="50%"/>
 
 _Product Management_
